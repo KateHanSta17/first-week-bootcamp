@@ -39,8 +39,8 @@ img {
   background-color: #999900;
 }
 
-/* Box 3
+Box 3
 #image-3 {
   /* TODO: Add your code here */
-  display: none;
-} */
+  display: block;
+}
